@@ -1,5 +1,7 @@
 Hello! I am Deepak, an undergraduate student in Computer Science at the Indian Institute of Technology Gandhinagar. I am interested in pursuing a career in research and will be applying to graduate programs beginning Fall 2020. As an undergraduate, I am very fortunate to have worked with Professors [Nipun Batra](https://nipunbatra.github.io/), [Mani Chandy](http://www.cms.caltech.edu/people/mani) and [Anirban Dasgupta](https://sites.google.com/site/anirbandasgupta/). 
 
+Link to my research [here](./research.md).
+
 
 
 
